@@ -102,7 +102,7 @@ The `Start` method executes asynchronously. To make sure that subsequent lines o
 
 [!code-csharp[Main](hubs-api-guide-net-client/samples/sample2.cs?highlight=1)]
 
-[!code-css[Main](hubs-api-guide-net-client/samples/sample3.css?highlight=1)]
+[!code-csharp[Main](hubs-api-guide-net-client/samples/sample3.cs?highlight=1)]
 
 <a id="slcrossdomain"></a>
 
@@ -277,7 +277,7 @@ To remove a handler, call its `Dispose` method.
 
 **Client code to remove the handler**
 
-[!code-css[Main](hubs-api-guide-net-client/samples/sample23.css?highlight=1)]
+[!code-csharp[Main](hubs-api-guide-net-client/samples/sample23.cs?highlight=1)]
 
 <a id="callserver"></a>
 
